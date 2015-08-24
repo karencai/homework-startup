@@ -1,0 +1,182 @@
+#header{
+	background-image: url("../images/header_bg.jpg");
+	width:100%;
+	height:340px;
+	background-repeat:no-repeat;
+	background-size: 700px 400px;
+	margin-bottom:0.5px;
+
+}
+    
+.brand{
+    position:absolute;
+	left:10%;
+	top:40px;
+	font-weight: 800;
+	font-size: 24px;
+	font-family: 'Open Sans', sans-serif;
+	margin-left:7%;
+}
+.slogan {
+	position: absolute;
+	width: 100%;
+	top:100px;
+	text-align: center;
+	font-weight: 600;
+	font-size: 24px;
+	font-family: 'Open Sans', sans-serif;
+	/*margin-top:1%;*/
+}
+
+.button {
+	position:absolute;
+	top:195px;
+    background-color: #f9e42e;
+	margin-right:48%;
+	margin-left:35%;
+    width:100px;
+	padding:5px;
+	border-radius:5px;s
+	font-weight: 800;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#section {
+	background-color: #f0efef;
+	width: 100%;
+	height:260px;
+	background-size: 700px 400px;
+	margin-top:-12px;
+	
+}
+
+.benefits{
+	/*position:absolute;*/
+	font-weight:600;
+	font-family:'Open Sans', sans-serif;
+	font-size:20px;
+	margin-left:3%;
+    
+    
+}
+
+.perfect{
+    
+	/*position:absolute;*/
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+	margin-left:20px;
+	
+}
+
+.enjoy{
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+	margin-left:20px;
+	margin-bottom:-15px;
+}
+
+
+
+.a{
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+}
+
+.b{
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+}
+
+.c{
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+}
+
+.d{
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+}
+
+#nav{
+	background-image:url("../images/testimonial_bg.jpg");
+    height:100%;
+    width:100%;
+    background-repeat:no-repeat;
+    background-size:;
+    
+}
+
+.changed{
+	margin-bottom:10%;
+	color:#606161;
+	font-weight:300;
+	font-family:'Open Sans', sans-serif;
+	font-size:13px;
+	font-style:italic;
+	text-align: center;
+}
+
+.amanda{
+	text-align:center;
+	font-weight:600;
+	font-size:18px;
+}
+
+.yellow{
+	background-color:#f9e42e;
+	width:100%;
+	height:50px;
+}
+
+.sign{
+
+	margin-bottom:10px;
+    margin-top:10px;
+	margin-right:48%;
+	margin-left:35%;
+    width:100px;
+	padding:5px;
+	position:absolute;
+	background-color: #033048;
+	color:white;
+	border-radius:5px;
+	font-weight: 800;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#footer{
+	margin-top:-20px;
+	background-color:black;
+	width:100%;
+	height:250px;
+}
+
+.relaxr{
+	font-weight:800;
+	font-family:'Open Sans', sans-serif;
+	font-size:24px;
+	color:#f9e42e;
+	text-align: center;
+}
+
+
+.copyright{
+	text-align:center;
+	color:white;
+	font-weight:300;
+	font-size:9px;
+}
+
+
+
+
+
