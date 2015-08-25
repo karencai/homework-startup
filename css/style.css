@@ -1,10 +1,12 @@
 body {
-	padding-bottom: 50px;
+	padding-bottom: 20px;
+	margin-top:20px;
 }
+
 #header{
 	background: url("../images/header_bg.jpg") center no-repeat ;
-	height:700px;
-	width: 1200px;
+	height:395px;
+	width:750px;
 	margin-right:auto;
 	margin-left:auto;
 	overflow: hidden;
@@ -13,45 +15,43 @@ body {
 .header-brand {
 	position: relative;
 	top:30px;
-	color: #f0efef;
-	left:121px;
+	color: white;
+	left:40px;
 	font-weight: 800;
 	font-size: 24px;
 	font-family: 'Open Sans', sans-serif;
-
 }
 
 .header-slogan {
 	position:  relative;
-	top:100px;
-	color: #f0efef;
+	top:65px;
+	color: white;
 	text-align: center;
 	font-weight: 600;
 	font-size: 24px;
 	font-family: 'Open Sans', sans-serif;
-	/*margin-top:1%;*/
 }
 
 .header-button {
-	position: absolute;
-	top: 200px;
-	right:45%;
-	left: 45%;
-	display: inline-block;
-    background-color: #f9e42e;
+	position:relative;
+	width:165px;
 	padding:5px;
+    top:140px;
+	height:35px;
+	left:285px;
+	background-color: #f9e42e;
+	color:black;
 	border-radius:5px;
-	width: 150px;
+	border: none;
 	font-weight: 800;
 	font-size: 14px;
 	font-family: 'Open Sans', sans-serif;
-
 }
 
 #section {
 	background-color: #f0efef;
-	height:700px;
-	width: 1200px;
+	height:345px;
+	width: 750px;
 	margin-right:auto;
 	margin-left:auto;
 	overflow: hidden;
@@ -60,41 +60,42 @@ body {
 
 .section-benefits {
 	position:relative;
-	top:15%;
-	left:10%;
+	top:50px;
+	left: 120px;;
 	font-weight:600;
 	font-family:'Open Sans', sans-serif;
 	font-size:20px;
-
-    
-    
 }
 
 .section-perfect {
     top:20%;
-	left: 10%;
+	left: 119px;
 	position:relative;
 	font-weight:300;
 	font-family:'Open Sans', sans-serif;
 	font-size:13px;
+	color:#033048;
 	padding-left:5px;
 	width:320px;
 }
 
 .section-list-group {
 	position: relative;
-	top:23%;
-	left:10%;
+	top:30%;
+	left: 119px;
 	display: block;
 	list-style-type: disc;
-	margin-left: 50px;
+	margin-left: 25px;
 }
 
 
 ul li {
 	list-style-type: disc;
-	width: 220px;
-	list-style-position: outside;
+	line-height:18px;
+	color:#033048;
+	width: 254px;
+	list-style-position: inside;
+	text-indent:5px;
 	margin-left: 1em;
 	font-weight:300;
 	font-family:'Open Sans', sans-serif;
@@ -104,20 +105,19 @@ ul li {
 
 #nav{
 	background-image:url("../images/testimonial_bg.jpg");
-    height:394px;
-    width:1200px;
+    height:255px;
+    width:750px;
     background-repeat:no-repeat;
 	margin-right:auto;
 	margin-left:auto;
 	overflow: hidden;
-    
 }
 
 .changed{
 	position: relative;
-	left: 38%;
-	top:50px;
-	color:#f0efef;
+	left: 28%;
+	top:75px;
+	color: #606161;
 	font-weight:300;
 	font-family:'Open Sans', sans-serif;
 	font-size:18px;
@@ -128,8 +128,8 @@ ul li {
 
 .amanda{
 	position: relative;
-	left: 44%;
-	top: 80px;
+	left: 38%;
+	top: 85px;
 	width: 150px;
 	text-align:center;
 	font-weight:600;
@@ -139,10 +139,10 @@ ul li {
 
 #yellow{
 	background-color:#f9e42e;
-	width:1200px;
+	width:750px;
 	margin-right:auto;
 	margin-left:auto;
-	height:40px;
+	height:35px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -152,7 +152,7 @@ ul li {
 	padding:5px;
 	position:relative;
 	height: 40px;
-	left:40%;
+	left:255px;
 	background-color: #033048;
 	color:white;
 	border-radius:5px;
@@ -164,41 +164,47 @@ ul li {
 
 #footer{
 	background-color:black;
-	width:1200px;
-	height:394px;
+	width:750px;
+	height:255px;
 	margin-right:auto;
 	margin-left:auto;
 }
 
 .relaxr{
 	position: relative;
-	top:100px;
+	top:50px;
 	font-weight:800;
 	font-family:'Open Sans', sans-serif;
 	font-size:24px;
 	color:#f9e42e;
+	right:15px;
 	text-align: center;
 }
 
 .facebook{
 	position: relative;
-	top: 120px;
-	left:48%;
+	top: 81px;
+	left:345px;
+	width:10px;
+	height:15px;
 }
 
 .twitter {
-	top: 120px;
 	position: relative;
-	left:46%;
+	top: 81px;
+	left:335px;
+	width:20px;
+	height:15px;
 }
 
 .copyright{
 	position: relative;
-	top: 200px;
+	top: 120px;
 	text-align:center;
 	color:white;
-	font-weight:300;
+	font-weight:600;
 	font-size:9px;
+	right:15px
 }
 
 
